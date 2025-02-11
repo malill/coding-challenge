@@ -1,1 +1,1 @@
-# huk-coding-challenge
+# coding-challenge
